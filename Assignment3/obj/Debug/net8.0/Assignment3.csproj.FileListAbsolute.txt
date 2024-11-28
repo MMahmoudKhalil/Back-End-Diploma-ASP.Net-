@@ -1,0 +1,15 @@
+D:\C#\Assignment\Assignment3\bin\Debug\net8.0\Assignment3.exe
+D:\C#\Assignment\Assignment3\bin\Debug\net8.0\Assignment3.deps.json
+D:\C#\Assignment\Assignment3\bin\Debug\net8.0\Assignment3.runtimeconfig.json
+D:\C#\Assignment\Assignment3\bin\Debug\net8.0\Assignment3.dll
+D:\C#\Assignment\Assignment3\bin\Debug\net8.0\Assignment3.pdb
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfoInputs.cache
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfo.cs
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\Assignment3.csproj.CoreCompileInputs.cache
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\Assignment3.sourcelink.json
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\Assignment3.dll
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\refint\Assignment3.dll
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\Assignment3.pdb
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\Assignment3.genruntimeconfig.cache
+D:\C#\Assignment\Assignment3\obj\Debug\net8.0\ref\Assignment3.dll

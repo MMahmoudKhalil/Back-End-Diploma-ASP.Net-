@@ -1,0 +1,5 @@
+Employee(ID, Name, NUM)
+Sales Office(NUM, Loc)
+Property(ID, Add, City, State, Zip, NUM)
+Owner(ID, Name)
+Has(Property.ID, Owner.ID, Property-Owner)

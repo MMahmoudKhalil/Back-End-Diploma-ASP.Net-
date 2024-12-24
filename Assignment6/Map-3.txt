@@ -1,0 +1,7 @@
+Consultant(ID, Name)
+Patient(ID, Name, DOB, Consultant.ID, Ward.ID)
+Ward(ID, Name)
+Nurse(ID, Name, Ward.ID)
+Drug(Code, Rec Dosage)
+Drug-Brand(Brand-Code)
+Gives(Patient.ID, Nurse.ID, Drug.ID, Date, Time, Dosage)
